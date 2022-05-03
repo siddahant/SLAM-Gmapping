@@ -1,0 +1,2 @@
+ses_navigation
+-DCATKIN_DEVEL_PREFIX=/home/siddahant/auto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/siddahant/auto_ws/install -G Unix Makefiles
